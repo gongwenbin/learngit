@@ -6,5 +6,3 @@ Creating a new branch is quick AND simple.
 new
 v203
 133.158
-
-assd
