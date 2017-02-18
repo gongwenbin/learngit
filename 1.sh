@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1..100}.txt
+for i in {1..10}.txt
 do
-    touch $i
+echo $i |echo a++
 done
